@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0097A7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="backgroundMain">#E8EAF6</color>
+
+    <color name="museums">#E040FB</color>
+    <color name="palaces">#FFC400</color>
+    <color name="religion">#448AFF</color>
+    <color name="theatres">#EF6C00</color>
+    //#3F51B5
+</resources>

@@ -1,0 +1,683 @@
+<resources>
+    <string name="app_name">Saint Petersburg City Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    //Tab name
+    <string name="tab_museum">Museums</string>
+    <string name="tab_palace">Palaces</string>
+    <string name="tab_religion">Religion</string>
+    <string name="tab_theatre">Theatres</string>
+
+    <string name="showMap">Show On Map</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    // Museums
+    <string name="annotation_russian">Russian Museum</string>
+    <string name="annotation_aurora">Russian Cruiser Aurora</string>
+    <string name="annotation_dostoyevsky">Dostoyevsky Museum</string>
+    <string name="annotation_hermitage">Hermitage</string>
+    <string name="annotation_kunstkamera">Kunstkamera</string>
+    <string name="annotation_zoological">Zoological Museum</string>
+    //Palaces
+    <string name="annotation_moika">Moika Palace</string>
+    <string name="annotation_winter">Winter Palace</string>
+    <string name="annotation_pavlovsk">Pavlovsk Palace</string>
+    <string name="annotation_menshikov">Menshikov Palace</string>
+    <string name="annotation_peterhof">Peterhof Palace</string>
+    <string name="annotation_stroganov">Stroganov Palace</string>
+    //Religion
+    <string name="annotation_aleksander">Alexander Nevsky Lavra</string>
+    <string name="annotation_isaacs">Saint Isaac\'s Cathedral</string>
+    <string name="annotation_kazan">Kazan Cathedral</string>
+    <string name="annotation_kronstadt">Kronstadt Naval Cathedral</string>
+    <string name="annotation_savior">Church of the Savior on Blood</string>
+    <string name="annotation_smolny">Smolny Convent</string>
+    //Theatre
+    <string name="annotation_aleksandrinsky">Alexandrinsky Theatre</string>
+    <string name="annotation_theatre_hermitage">Hermitage Theatre</string>
+    <string name="annotation_mariinsky">Mariinsky Theatre</string>
+    <string name="annotation_mikhaylovsky">Mikhailovsky Theatre</string>
+    <string name="annotation_music">Theatre of Musical Comedy</string>
+    <string name="annotation_opera">Chamber Opera</string>
+    //MainText
+    <string name="museum_russian">The State Russian Museum (formerly the Russian
+Museum of His Imperial Majesty Alexander III) is the largest depository of Russian fine art
+in Saint Petersburg. It is also one of the largest museums in the country.\n
+\n
+The museum was established on April 13, 1895, upon enthronement of Nicholas II to
+commemorate his father, Alexander III. Its original collection was composed of artworks taken
+from the Hermitage Museum, Alexander Palace, and the Imperial Academy of Arts. After
+the Russian Revolution of 1917, many private collections were nationalized and relocated to the
+Russian Museum. These included Kazimir Malevich\'s Black Square.\n
+\n
+The main building of the museum is the Mikhailovsky Palace, a splendid Neoclassical residence
+of Grand Duke Michael Pavlovich, erected in 1819-25 to a design by Carlo Rossi on Square of
+Arts in St Petersburg. Upon the death of the Grand Duke the residence was named after his
+wife as the Palace of the Grand Duchess Elena Pavlovna, and became famous for its many
+theatrical presentations and balls.</string>
+    
+    <string name="museum_aurora">Aurora (Russian: Авро́ра, tr. Avrora; IPA: [ɐˈvrorə]) is a 1900
+Russian protected cruiser, currently preserved as a museum ship in St. Petersburg. Aurora was
+one of three Pallada-class cruisers, built in St. Petersburg for service in the Pacific. All three
+ships of this class served during the Russo-Japanese War. Aurora survived the Battle of
+Tsushima and was interned under US protection in the Philippines, eventually returned to
+the Baltic Fleet. The second ship, Pallada, was sunk by the Japanese at Port Arthur in 1904. The
+third ship, Diana, was interned in Saigon after the Battle of the Yellow Sea. One of the first
+incidents of the October Revolution in Russia took place on the cruiser Aurora.\n
+\n
+As a museum ship, the cruiser Aurora became one of the many tourist attractions of Leningrad
+(now Saint Petersburg), and continued to be a symbol of the October Socialist Revolution and a
+prominent attribute of Russian history. In addition to the museum space, a part of the ship
+continued to house a naval crew whose duties included caring for the ship, providing security and
+participating in government and military ceremonies.</string>
+    
+    <string name="museum_dostoevsky">The F. M. Dostoyevsky Literary Memorial
+Museum (Государственный Литературно-мемориальный музей Ф. М. Достоевского), located
+on Kuznechny Lane 5/2 in Saint Petersburg, was opened on November 12, 1971 in the former
+apartment of the famous writer. Fyodor Dostoyevsky lived in the apartment twice during his life:
+first for a short period in 1846 in the beginnings of his career, and later from October 1878 until
+his death in January 1881. The apartment was his home during the composition of some of his
+most notable works, including The Double: A Petersburg Poem and The Brothers
+Karamazov. The apartment has been reconstructed based on the memoirs of his wife and his
+friends.\n
+\n
+The Dostoyevsky Museum has several parts:\n
+- The Writer’s Memorial Apartment – the museum\'s central part\n
+- The Literary Exhibit, dedicated to the writer\'s biography and creation\n
+- The Exhibit Halls, for exhibits of contemporary art\n
+- The Theater, in which the White Theater presents its performances, as well as the museum\'s
+partner theaters: \"Puppet Format\", \"Takoy Theatre\", and other local, national, and
+international theaters.\n
+\n
+Every November, the museum hosts an international scholarly conference \"Dostoyevsky and
+World Culture\" and a journal of the same name is published with the conference proceedings.</string>
+    
+    <string name="museum_hermitage">The State Hermitage
+Museum (Russian: Госуда́рственный Эрмита́ж, tr. Gosudárstvennyj
+Ermitáž; IPA: [ɡɐsʊˈdarstvʲɪnɨj ɛrmʲɪˈtaʂ]) is a museum of art and culture in Saint
+Petersburg, Russia. One of the largest and oldest museums in the world, it was founded in 1764
+by Catherine the Great and has been open to the public since 1852. Its collections, of which only
+a small part is on permanent display, comprise over three million items (the numismatic collection
+accounts for about one third of them) including the largest collection of paintings in the world.
+The collections occupy a large complex of six historic buildings along Palace Embankment,
+including the Winter Palace, a former residence of Russian emperors. Apart from them,
+the Menshikov Palace, Museum of Porcelain, Storage Facility at Staraya Derevnya and the
+eastern wing of the General Staff Building are also part of the museum. The museum has several
+exhibition centers abroad. The Hermitage is a federal state property. Since July 1992, the
+director of the museum has been Mikhail Piotrovsky.\n
+\n
+Of six buildings of the main museum complex, five, named the Winter Palace, Small Hermitage,
+Old Hermitage, New Hermitage and Hermitage Theatre, are open to the public. The entrance
+ticket for foreign tourists costs more than the fee paid by citizens of Russia and Belarus.
+However, entrance is free of charge the first Thursday of every month for all visitors, and free
+daily for students and children. The museum is closed on Mondays. The entrance for individual
+visitors is located in the Winter Palace, accessible from the Courtyard.</string>
+    
+    <string name="museum_kunstkamera">The Kunstkamera (or Kunstkammer; Russian: Кунсткамера) is the first museum in Russia.
+Established by Peter the Great and completed in 1727, the Kunstkammer Building hosts
+the Peter the Great Museum of Anthropology and Ethnography (Russian: Музей
+антропологии и этнографии имени Петра Великого Российской академии наук), with a
+collection of almost 2,000,000 items. It is located on the Universitetskaya Embankment in Saint
+Petersburg, facing the Winter Palace.\n
+\n
+The Kunstkamera was established by Peter the Great on the Neva Riverfront. The
+turreted Petrine Baroque building of the Kunstkamera designed by Georg Johann
+Mattarnovy was completed by 1727. The foundation stone for the Kunstkammer was laid in
+1719.\n
+Peter\'s museum was a cabinet of curiosities dedicated to preserving \"natural and human
+curiosities and rarities\", a very typical type of collection in the period. The tsar\'s personal
+collection, originally stored in the Summer Palace, features a large assortment of human and
+animal fetuses with anatomical deficiencies, which Peter had seen in 1697 visiting Frederick
+Ruysch and Levinus Vincent. The underlying idea of their kunstkammers was to acquire full
+knowledge of the world. The Dutch word \"kunst-kamer\" seems to be introduced by the
+surgeon Stephanus Blankaart in 1680.\n
+The Kunstkamera of Peter the Great is often seen as a haphazard collection of incoherent
+rarities, but it seems they were collected systematically subject to a well defined plan. Peter\'s
+main interest was in \"naturalia\", rather than the so-called \"artificialia\". Peter encouraged research
+of deformities, all along trying to debunk the superstitious fear of monsters. He issued
+an ukase ordering malformed, still-born infants to be sent from all over the country to the imperial
+collection. He subsequently had them put on show in the Kunstkamera as examples of accidents
+of nature.\n
+In 1716 Peter established the mineral cabinet of Kunstkamera, depositing there a collection of
+1195 minerals which he had bought from Gotvald, a Danzig doctor. The collection was enriched
+with Russian minerals. It was a predecessor of the Fersman Mineralogical Museum, now based
+in Moscow.\n
+Many items were bought in Amsterdam from pharmacologist Albertus Seba (1716) and
+anatomist Frederik Ruysch (1717) and formed the basis for the Academy of Sciences. The
+Kunstkamera was specially built to house these two extensive collections. A third acquisition
+came from Jacob de Wilde, a collector of gems and scientific instruments. Head-physician to the
+czar, Robert Erskine, and his secretary Johann Daniel Schumacher were responsible for the
+acquisition.\n</string>
+    
+    <string name="museum_zoological">The Zoological Museum of the Zoological Institute
+of the Russian Academy of Sciences is a Russian museum devoted to zoology. It is located
+in Saint Petersburg, on Universitetskaya Embankment. It\'s one of the ten largest nature history
+museums in the world.\n
+\n
+Peter the Great\'s Kunstkamera collections included zoological specimens. In 1724 the museum
+became a part of the Russian Academy of Sciences. A printed catalogue of the contents was
+published in 1742. It listed the zoology, botany, geology and anthropology specimens and
+contained an album of etchings of the building and plan of some of its parts. In 1766 Peter Simon
+Pallas, member of the Russian Academy of Sciences, was appointed Curator of Zoology. In 1832
+the zoological collections were split from the Kunstkamera and in 1896 moved nearby to its
+present location in the former southern warehouse of the Saint Petersburg bourse \(constructed in
+1826-1832). In 1931 the Zoological Institute was established within the Academy of Sciences,
+which included the museum.\n
+\n
+In the front hall of the museum, with the monument to Karl Ernst von Baer by the entrance, the
+exhibition of the zoological collection of the Kunstkamera acquired by Peter the Great in the early
+18th century is located, as well as skeletons of cetaceans, including the enormous 27 m
+long blue whale in the middle of it, and mounted pinnipeds. In the gallery above the front hall the
+entomological collection is displayed. The second and third halls form a long passage with
+systematic collections and dioramas dating back to the early 20th century and are situated to the
+left of the front hall. The second hall hosts the collection
+of fishes, amphibians, reptiles, birds andinvertebrates, mounted or preserved in formalin, and
+their skeletons or shells. The collection of mammals, including woolly mammoths, is displayed in
+the third hall.</string>
+
+    <string name="palace_moika">The Moika Palace or Yusupov Palace (Russian: Дворец Юсуповых на
+        Мойке, literally the Palace of the Yusupovs on the Moika) was once the primary residence in 
+        St. Petersburg, Russia of the House of Yusupov. The building was the site of Grigori
+        Rasputin\'s murder in the early morning of December 17, 1916.\n
+\n
+The palace was first built around 1776 by the French architect Jean-Baptiste Vallin de la Mothe.
+        Over the years numerous well-known architects worked on the palace, producing a variety of
+        architectural styles. A. Mikhailov reconstructed the building during the 1830s when the 
+        Yusupovs became owners of the building. This was the period that the palace achieved its
+        present-day appearance. \n
+\n
+From 1830 to 1917, the palace belonged to the House of Yusupov, an immensely wealthy family of
+        Russian nobles, known for their philanthropy and art collections. Thus in the time of
+        Imperial Russia, the palace became known as the Yusupov Palace.\n
+\n
+The luxurious interiors of the palace were not inferior to those of contemporary royal palaces.
+        More than 40,000 works of art, including works by Rembrandt, jewelry, and sculptures
+        decorated the palace. Following the Russian Revolution, the Yusupov art collections were
+        nationalized and relocated in the Hermitage and other museums. Ernst Friedrich von Liphart,
+        who was the curator of paintings at the Hermitage, had earlier painted the curtain and
+        ceiling of the palace theatre.
+</string>
+
+    <string name="palace_winter">The Winter Palace (Russian: Зи́мний дворе́ц; IPA: [ˈzʲimnʲɪj dvɐˈrʲɛts
+        ]) in Saint Petersburg, Russia, was, from 1732 to 1917, the official residence of the 
+        Russian monarchs. Situated between the Palace Embankment and the Palace Square, adjacent
+        to the site of Peter the Great\'s original Winter Palace, the present and fourth Winter Palace
+        was built and altered almost continuously between the late 1730s and 1837, when it was
+        severely damaged by fire and immediately rebuilt. The storming of the palace in 1917 as
+        depicted in Soviet paintings and Eisenstein\'s 1927 film October became an iconic symbol of
+        the Russian Revolution.\n
+\n
+The palace was constructed on a monumental scale that was intended to reflect the might and power
+        of Imperial Russia. From the palace, the Tsar ruled over 22,400,000 square kilometres
+        (8,600,000 sq mi) (almost 1/6 of the Earth\'s landmass) and over 125 million subjects by the
+        end of the 19th century. It was designed by many architects, most notably Bartolomeo
+        Rastrelli, in what came to be known as the Elizabethan Baroque style. The green-and-white
+        palace has the shape of an elongated rectangle, and its principal façade is 250 m long and
+        100 ft (30 m) high. The Winter Palace has been calculated to contain 1,786 doors, 1,945
+        windows, 1,500 rooms and 117 staircases. The rebuilding of 1837 left the exterior unchanged,
+        but large parts of the interior were redesigned in a variety of tastes and styles, leading
+        the palace to be described as a \"19th-century palace inspired by a model in Rococo style\".\n
+\n
+In 1905, the Bloody Sunday massacre occurred when demonstrators marched toward the Winter Palace,
+        but by this time the Imperial Family had chosen to live in the more secure and secluded
+        Alexander Palace at Tsarskoe Selo, and returned to the Winter Palace only for the most
+        formal and rarest state occasions. Following the February Revolution of 1917, the palace
+        was for a short time the seat of the Russian Provisional Government, led by Alexander
+        Kerensky. Later that same year, the palace was stormed by a detachment of Red Army soldiers
+        and sailors—a defining moment in the birth of the Soviet state. On a less glorious note,
+        the month-long looting of the palace\'s wine cellars during this troubled period led to what
+        has been described as \"the greatest hangover in history\". Today, the restored palace forms
+        part of the complex of buildings housing the Hermitage Museum.
+</string>
+
+    <string name="palace_pavlovsk">Pavlovsk Palace (Russian: Павловский дворец) is an 18th-century
+        Russian Imperial residence built by Catherine the Great for her son,Grand Duke Paul, in 
+        Pavlovsk, within Saint Petersburg. After his death, it became the home of his widow, Maria
+        Feodorovna. The palace and the large English garden surrounding it are now a Russian state
+        museum and public park. \n
+\n
+In 1777, the Empress Catherine II of Russia gave a parcel of a thousand hectares of forest along the
+        winding Slavyanka River, four kilometers from her residence at Tsarskoye Selo, to her son
+        and heir Paul I and his wife Maria Feodorovna, to celebrate the birth of their first son,
+        the future Alexander I of Russia.\n
+\n
+At the time the land was given to Paul and Maria Feodorovna, there were two rustic log lodges called
+        \'Krik\' and \'Krak.\' Paul and his wife spent the summers of 1777 to 1780 in Krik, while their
+        new homes and the garden were being built.\n
+\n
+They began by building two wooden buildings, one kilometer apart. Paul\'s house, a two-story house in
+        the Dutch style, with small gardens, was called \"Marienthal\", or the \"Valley of Maria.\"
+        Maria\'s house was a small wooden house with a cupola, flower beds, named \"Paullust\", or
+        \"Paul\'s Joy.\" Paul and Maria Feodorovna began to create picturesque \"ruins\", a Chinese
+        kiosk, Chinese bridges and classical temples in the English landscape garden style which
+        had spread rapidly across Europe in the second half of the 18th century.\n
+\n
+In 1780, Catherine the Great loaned her official architect, the Scotsman Charles Cameron, to design
+        a palace on a hillside overlooking the Slavyanka River, near the site of Marienthal.\n
+\n
+Cameron had studied under English architect Isaac Ware, who was close to William Kent. Kent
+        introduced the Palladian style of architecture into England with his work at Chiswick House
+         for Lord Burlington. Through this connection Cameron became familiar with the original
+        plans of Palladio, which were in the personal collection of Lord Burlington. This style was
+        the major influence on Cameron when he designed Pavlovsk.\n
+\n
+Cameron began his project not with the palace itself but with two classical pavilions. The first was
+        the Temple of Friendship, a circularDorian temple with sixteen columns supporting a low
+        dome, containing a statue of Catherine the Great. It was placed at a bend of the Slavyanka
+        River, below the future palace, and was surrounded by silver poplars and transplanted
+        Siberian pines. The second was the Apollo Colonnade, a double row of columns with an
+        entablature, forming a setting for a reproduction of a reproduction of the Belvedere Apollo.
+        It was placed at the entrance of the park, and it was made of porous limestone with a coarse
+        finish; the surfaces suggest that they had been aged by centuries of weather. At the same
+        time the Slavyanka River was dammed, to create a lake which would mirror the facade of the
+        palace above.</string>
+
+    <string name="palace_menshikov">The Menshikov Palace (Russian: Меншиковский дворец) is a Petrine
+        Baroque edifice in Saint Petersburg, situated onUniversitetskaya Embankment of the Bolshaya
+        Neva on Vasilyevsky Island. It was the first stone building in the city. Since 1981, it has
+        served as a public museum, a branch of the Hermitage Museum.\n
+\n
+The palace was founded in 1710 as a residence of Saint Petersburg Governor General Alexander
+        Menshikov and built by Italian architects Giovanni Maria Fontana, and, later, German
+        architect Gottfried Johann Schädel. It was opened in 1711, but the construction continued
+        until 1727 (assisted by Domenico Trezzini, Bartolomeo Rastrelli, Georg Johann Mattarnovy and
+         Jean-Baptiste Le Blond), when Menshikov with his family was exiled to Siberia and his
+        property was confiscated.\n
+\n
+In 1731, Cadet Corps were established and occupied the palace and neighboring buildings. At the end
+        of the 19th century the Menshikov Palace was restored and became the museum of the Corps.
+        In 1924, its collections were moved to the Hermitage and other museums. From 1956-1981 the
+        Menshikov Palace was restored again and finally opened to the public as a branch of the
+        Hermitage Museum with a collection of Russian art of the late 17th-early 18th century.</string>
+
+    <string name="palace_peterhof">The Peterhof Palace (Russian: Петерго́ф; IPA: [pʲɪtʲɪrˈɡof], Dutch
+         for Peter\'s Court) is a series of palaces and gardens located in Petergof, Saint Petersburg,
+         Russia, laid out on the orders of Peter the Great. These palaces and gardens are sometimes
+        referred as the \"Russian Versailles\". The palace-ensemble along with the city center is
+        recognized as a UNESCO World Heritage Site. \n
+\n
+The dominant natural feature of Peterhof is a sixteen-metre-high bluff lying less than a hundred
+        metres from the shore. The so-called Lower Gardens (Nizhny Sad), at 1.02 km² comprising the
+        better part of Peterhof\'s land area, are confined between this bluff and the shore,
+        stretching east and west for roughly 200 metres. The majority of Peterhof\'s fountains are
+        contained here, as are several small palaces and outbuildings. East of the Lower Gardens
+        lies the Alexandria Park with 19th-century Gothic Revival structures such as the Kapella.\n
+\n
+Atop the bluff, near the middle of the Lower Gardens, stands the Grand Palace (Bolshoi Dvorets).
+        Behind (south) of it are the comparatively small Upper Gardens (Verhnyy Sad). Upon the
+        bluff\'s face below the Palace is the Grand Cascade (Bolshoi Kaskad). This and the Grand
+        Palace are the centrepiece of the entire complex. At its foot begins the Sea Channel
+        (Morskoi Kanal), one of the most extensive waterworks of the Baroque period, which bisects
+        the Lower Gardens.
+</string>
+
+    <string name="palace_stroganov">The Stroganov Palace (Russian: Строгановский дворец) is a Late
+        Baroque palace at the intersection of the Moika Riverand Nevsky Prospect in St. Petersburg,
+         Russia. The palace was built to Bartolomeo Rastrelli\'s designs for Baron Sergei
+        Grigoriyevich Stroganov in 1753-1754. The interiors were remodeled by Andrei Voronikhin at
+        the turn of the 19th century. \n
+\n
+The first house for the Stroganovs was built on the site probably in the 1720s. It was a one-storey
+        building. Аrchitect Mikhail Zemtsoverected a second, two-storey house on the site in the 1740s.\n
+\n
+In 1752, Baron Sergei Stroganov commissioned the palace design from Italian architect Bartolomeo
+        Rastrelli, then at work extending theCatherine Palace and building the Smolny Convent for 
+        Empress Elisabeth. Since the Stroganovs were the richest family in Russia and were related
+        to the Empress by marriage, Rastrelli could not turn down the commission and hastily
+        prepared a design for thetownhouse.\n
+\n
+Like the Vorontsov Palace (also designed by Rastrelli for Stroganov\'s in-law Mikhail Vorontsov),
+        the Stroganov Palace was not rapidly built. The Main Staircase decorated with marble
+        sculptures led to the elegant Grand Hall, which featured a huge painting by Venetian artist
+        Giuseppe Valeriani. After Sergei Stroganov\'s death in 1756, the decoration was completed by
+        his son Alexander in 1760. Within several years, the new empress, Catherine II introduced the
+         Neoclassical taste. The style was also championed by Alexander Stroganov, who became
+        President of the Imperial Academy of Arts in 1800.
+</string>
+
+    <string name="religion_alexander">Saint Alexander Nevsky Lavra or Saint Alexander Nevsky Monastery was founded by Peter I
+of Russia in 1710 at the eastern end of the Nevsky Prospekt in Saint Petersburg supposing
+that was the site of the Neva Battle in 1240 when Alexander Nevsky, a prince, defeated the
+Swedes; however, the battle actually took place about 12 miles (19 km) away from that site. \"On
+April 5, 1713, in St. Petersburg, in the presence of Peter I, the wooden Church of the
+Annunciation was consecrated. This day is considered the official founding date of the Alexander
+Nevsky Lavra.\" \n
+\n
+\";The relics of St. Alexander Nevsky were solemnly transferred from Vladimir to the new capital
+of Russia September 12, 1724 by decree of Peter the Great.\" Nevsky became patron of the
+newly founded Russian capital; however, the massive silver sarcophagus of St. Alexander
+Nevsky was relocated during Soviet times to the State Hermitage Museum where it remains
+(without the relics) today.\n
+\n
+In 1797, the monastery was raised to the rank of lavra, making it only the third lavra in
+the Russian Orthodox Church that had that designation bestowed upon it, following only the Kiev
+Monastery of the Caves and the Trinity Monastery of St Sergius. \n
+\n
+The monastery grounds contain two baroque churches, designed by father and son Trezzini and
+built from 1717–1722 and 1742–1750, respectively; a majestic Neoclassical cathedral, built in
+1778–1790 to a design by Ivan Starov and consecrated to the Holy Trinity; and numerous
+structures of lesser importance. It also contains the Lazarev and Tikhvin Cemeteries, where
+ornate tombs of Leonhard Euler, Mikhail Lomonosov, Alexander Suvorov,Nikolay
+Karamzin, Modest Mussorgsky, Pyotr Ilyich Tchaikovsky, Fyodor Dostoevsky, Karl Ivanovic
+Rossi, Prince Garsevan Chavchavadze, a Georgian aristocrat, Sergei Witte and other famous
+Russians are preserved. \n
+\n
+During the Revolution, People\'s Commissar of Social Welfare Kollontai wanted to convert the
+monastery into a \'sanctuary for war invalids\'; she sent a group of sailors 19 January 1918, who
+were met by an angry crowd of worshipers, and after some fighting a priest was shot and killed.
+\n
+\n
+Today Alexander Nevsky Lavra sits on Alexander Nevsky Square, where shoppers can buy
+bread baked by the monks. Visitors may also visit the cathedral and cemeteries for a small
+admission fee. While many of the grave sites are situated behind large concrete walls, especially
+those of famous Russians, many can be seen by passers-by while strolling down Obukovskoy
+Oburony Street.</string>
+
+    <string name="religion_isaac">Saint Isaac\'s Cathedral or Isaakievskiy Sobor (Russian: Исаа́киевский Собо́р) in Saint
+Petersburg, Russia, is the largest Russian Orthodox cathedral (sobor) in the city. It is the largest
+orthodox basilica and the fourth largest (by the volume under the cupola) cathedral in the
+world. It is dedicated to Saint Isaac of Dalmatia, a patron saint of Peter the Great, who had been
+born on the feast day of that saint. \n
+\n
+The church on St Isaac\'s Square was ordered by Tsar Alexander I, to replace an earlier
+structure by Vincenzo Brenna, and was the fifth consecutive church standing at this place. A
+specially appointed commission examined several designs, including that of the French-
+born architect Auguste de Montferrand (1786–1858), who had studied in the atelier of
+Napoleon\'s designer, Charles Percier. Montferrand\'s design was criticised by some members of
+the commission for the dry and allegedly boring rhythm of its four identical pedimented octastyle
+porticos. It was also suggested that despite gigantic dimensions, the edifice would look squat and
+not very impressive. The members of the commission, which consisted of well-known Russian
+architects, were also particularly concerned by necessity to build a new huge building on the old
+unsecure foundation. The emperor, who favoured the ponderous Empire style of architecture,
+had to step in and solve the dispute in Montferrand\'s favour. \n
+\n
+The cathedral took 40 years to construct, under Montferrand\'s direction, from 1818 to 1858. To
+secure the construction, the cathedral\'s foundation was strengthened by driving 25,000 piles into
+the fenland of Saint Petersburg. Innovative methods were created to erect the giant columns of
+the portico. The construction costs of the cathedral totalled an incredible sum of 1 000 000
+gold rubles. Under the Soviet government, the building was stripped of religious trappings. In
+1931, it was turned into the Museum of the History of Religion and Atheism, the dove sculpture
+was removed, and replaced by a Foucault pendulum. On April 12, 1931, the first public
+demonstration of the Foucault pendulum was held to visualize Copernicus\’s theory. In 1937, the
+museum was transformed into the museum of the Cathedral, and former collections were
+transferred to the Museum of the History of Religion (located in the Kazan Cathedral). \n
+\n
+During World War II, the dome was painted over in gray to avoid attracting attention from enemy
+aircraft. On its top, in the skylight, a geodesical intersection point was placed, to determine the
+positions of German artillery batteries. \n
+\n
+With the fall of communism, the museum was removed and regular worship activity has resumed
+in the cathedral, but only in the left-hand side chapel. The main body of the cathedral is used for
+services on feast days only. \n
+\n
+As of 2015, the church is still a museum.</string>
+
+    <string name="religion_kazan">Kazan Cathedral or Kazanskiy Kafedralniy Sobor (Russian: Каза́нский кафедра́льный
+собо́р), also known as the Cathedral of Our Lady of Kazan, is a cathedral of the Russian
+Orthodox Church on the Nevsky Prospekt inSaint Petersburg. It is dedicated to Our Lady of
+Kazan, probably the most venerated icon in Russia. \n
+\n
+The construction was started in 1801 and continued for ten years while being supervised
+by Alexander Sergeyevich Stroganov. Upon its completion in 1811, the new temple replaced the
+Church of Nativity of the Theotokos, which was disassembled when the Kazan Cathedral was
+consecrated. \n
+\n
+It was modelled by Andrey Voronikhin after the St. Peter\'s Basilica in Rome. Some art historians
+assert that Emperor Paul intended to build a similar church on the other side of Nevsky Prospect
+that would mirror the Kazan Cathedral but his plans failed to materialize. Although the Russian
+Orthodox Church strongly disapproved of the plans to create a replica of a Catholic basilica in
+Russia\'s then capital, several courtiers supported Voronikhin\'s Empire Style design. \n
+\n
+After Napoleon invaded Russia in 1812, and the commander-in- chief Mikhail Kutuzov asked Our
+Lady of Kazan for help, the church\'s purpose was to be altered. The Patriotic War over, the
+cathedral was perceived primarily as a memorial to the Russian victory against
+Napoleon. Kutuzov himself was interred in the cathedral in 1813; and Alexander Pushkin wrote
+celebrated lines meditating over his sepulchre. In 1815, keys to seventeen cities and eight
+fortresses were brought by the victorious Russian army from Europe and placed in the
+cathedral\'s sacristy. In 1837, Boris Orlovsky designed two bronze statues of Kutuzov
+and Barclay de Tolly in front of the cathedral. \n
+\n
+In 1876, the Kazan demonstration, the first political demonstration in Russia, took place in front
+of the church. After the Russian Revolution of 1917, the cathedral was closed. In 1932 it was
+reopened as the pro-Marxist \"Museum of the History of Religion and Atheism.\" Services were
+resumed in 1992, and four years later the cathedral was returned to the Russian Orthodox
+Church. Now it is the mother cathedral of the metropolis of St. Petersburg. \n
+\n
+The cathedral\'s interior, with its numerous columns, echoes the exterior colonnade and is
+reminiscent of a palatial hall, being 69 metres in length and 62 metres in height. The interior
+features numerous sculptures and icons created by the best Russian artists of the day. A
+wrought iron grille separating the cathedral from a small square behind it is sometimes cited as
+one of the finest ever created. \n
+\n The cathedral\'s huge bronze doors are one of three copies of the original doors of the
+Baptistry in Florence, Italy (the other two are in San Francisco and on the Baptistry itself).</string>
+
+    <string name="religion_kronstadt">The Naval cathedral of Saint Nicholas in Kronstadt is a Russian Orthodox cathedral built in
+1903–1913 as the main church of the Russian Navy and dedicated to all fallen seamen. The
+cathedral was closed in 1929, was converted to a cinema, a House of Officers (1939) and a
+museum of the Navy (1980). \n
+\n
+The Russian Orthodox Church reinstalled the cross on the main dome in 2002 and served the
+first Divine Liturgy in the cathedral in 2005. In 2013, the Patriarch of Russia, with Prime
+Minister Dmitriy Medvedevand his spouse attending, conducted the ceremony of
+grand reconsecration in the now fully restored cathedral. \n
+\n
+The first Orthodox church in Kronstadt was built in 1728–31. The wooden church remained the
+main place of worship in Russia\'s largest naval base until 1840, when the counterweights
+balancing the church bells broke through the rotting floors and seriously damaged the belltower
+structure. Emperor Nicholas I personally ordered the closure of the unsafe church and it was
+demolished in 1841. For the next half century worship occurred in temporary locations — in
+hospitals, barracks and even rented private houses; a temporary wooden church built in 1861
+was inadequate for the ten thousand Kronstadt seamen from the start. Numerous Navy requests
+for construction funding were turned down or simply left unanswered, despite the fact that the
+cost of building a large contemporary cathedral (200 to 500 thousand roubles) was less than
+10% of a pre-dreadnought battleship\’s cost (RUB4 to 6 million). \n
+\n
+Construction management, extremely centralized until the reign of Alexander II, was gradually
+decentralized in the 1880s–1890s. The right to initiate individual construction projects passed
+from the Emperor himself to imperial ministers and department chiefs. In 1896 admiral Pavel
+Tyrtov, director of the Imperial Russian Navy Ministry, started preparations to build a cathedral in
+Kronstadt in earnest. Tyrtov insisted that the cathedral be built on the site identified nearly two
+centuries earlier by Peter I and reasoned that it should not cost more than the
+new Kharkov cathedral (200,000 roubles).</string>
+
+    <string name="religion_savior">The Church of the Savior on Spilled Blood (Russian: Церковь Спаса на Крови, Tserkov\ʹ
+Spasa na Krovi) is one of the main sights of St. Petersburg, Russia. Other names include
+the Church on Spilled Blood(Russian: Церковь на Крови, Tserkov\’ na Krovi), the Temple of the
+Savior on Spilled Blood (Russian: Храм Спаса на Крови, Khram Spasa na Krovi), and
+the Cathedral of the Resurrection of Christ (Russian: Собор Воскресения Христова, Sobor
+Voskreseniya Khristova). \n
+\n
+This Church was built on the site where Emperor Alexander II was fatally wounded in March
+1881.The church was built between 1883 and 1907. The construction was funded by the imperial
+family. \n
+\n
+Construction began in 1883 during the reign of Alexander III. The church was dedicated to be a
+memorial to his father, Alexander II. Estimates suggest that the construction cost 4.5 million
+rubles. The construction was completed during the reign of Nicholas II in 1907. Funding was
+provided by the Imperial family with the support of many private donors. \n
+\n
+The Church is prominently situated along the Griboedov Canal; paved roads run along both sides
+of the canal. On March 13, 1881 (Julian date: March 1), as Tsar Alexander\'s carriage passed
+along the embankment, a grenade thrown by an anarchist conspirator exploded. The tsar,
+shaken but unhurt, got out of the carriage and started to remonstrate with the presumed culprit. A
+second conspirator took the chance to throw another bomb, killing himself and mortally wounding
+the tsar. The tsar, bleeding heavily, was taken back to the Winter Palace where he died a few
+hours later. \n
+\n
+A temporary shrine was erected on the site of the attack while plans and fundraising for a more
+permanent memorial were undertaken. In order to build a permanent shrine on the exact spot
+where the assassination took place, it was decided to narrow the canal so that the section of
+road on which the tsar had been driving could be included within the walls of the church. An
+elaborate shrine was constructed at the end of the church opposite the altar, on the exact place
+of Alexander\'s death. It is embellished with topaz, lazurite and other semi-precious stones,
+making a striking contrast with the simple cobblestones of the old road, which are exposed in the
+floor of the shrine.</string>
+
+    <string name="religion_smolny">This Russian Orthodox convent was built to house Elizabeth, the daughter of Peter the Great.
+After she was disallowed succession to the throne, she opted to become a nun. However her
+Imperial predecessor,Ivan VI was overthrown during a coup d\'état (carried out by the royal
+guards in 1741). Elizabeth then decided against entering monastic life and accepted the offer of
+the Russian throne and work on the convent continued with her royal patronage. \n
+\n
+The convent\'s main church (catholicon or sobor), a blue-and- white building, is considered to be
+one of the architectural masterpieces of the Italian architect Francesco Bartolomeo Rastrelli, who
+also redesigned the Winter Palace, and created the Grand Catherine Palace (Yekaterininsky)
+in Tsarskoye Selo (Pushkin), the Grand Palace in Peterhof and many other major St. Petersburg
+landmarks. \n
+\n
+The Cathedral is the centerpiece of the convent, built by Rastrelli between 1748 and 1764. The
+projected bell-tower was to become the tallest building in St. Petersburg and, at the time, all of
+Russia. Elizabeth\'s death in 1762 prevented Rastrelli from completing this grand design. \n
+\n
+When Catherine II assumed the throne, it was found that the new Empress strongly disapproved
+of the baroque style, and funding that had supported the construction of the convent rapidly ran
+out. Rastrelli was unable to build the huge bell-tower he had planned and unable to finish the
+interior of the cathedral. The building was only finished in 1835 by Vasily Stasovwith the addition
+of a neo-classical interior to suit the changed architectural tastes at the time. The Cathedral
+was consecrated on 22 July 1835; its main altar was dedicated to theResurrection and the two
+side altars were dedicated to St. Mary Magdalene and Righteous Elizabeth. The church was
+closed by the Soviet authorities in 1923. It was looted and allowed to decay until 1982, when it
+became a Concert Hall. \n
+\n
+Today, Smolny Cathedral is used primarily as a concert hall and the surrounding convent
+buildings house various offices and government institutions. In addition, the faculties of
+sociology, political science and international relations of the Saint Petersburg State University are
+located in some of the buildings surrounding the cathedral. \n
+\n
+The nearby Smolny Institute is named after the convent. \n
+\n
+The name \"Smolny\" derives from the location, in the early days of St. Petersburg the place at
+the edge of the city where pitch (\"smola\" in Russian) was processed for use in shipbuilding and
+maintenance. As a result, the locale was called \"smolny\" - the place of pitch.</string>
+
+    <string name="theatre_alexandrinsky">The Alexandrinsky Theatre (Russian: Александринский театр) or Russian State Pushkin
+Academy Drama Theater (Российский государственный академический театр драмы им. А.
+С. Пушкина) is a theatre in Saint Petersburg, Russia. \n
+\n
+The Alexandrinsky Theatre was built for the Imperial troupe of Petersburg (Imperial troupe was
+founded in 1756). \n
+\n
+The theatre was opened on 31 August (12 September), 1832. \n
+\n
+Since 1832, the theatre has occupied an Empire-style building that Carlo Rossi designed. It was
+built in 1828-1832 on Alexandrinsky Square (now Ostrovsky Square), which is situated
+on Nevsky Prospekt between the National Library of Russia and Anichkov Palace. The theatre
+and the square were named after Empress consort Alexandra Feodorovna. The building is part
+of the UNESCO World Heritage Site Historic Centre of Saint Petersburg and Related Groups of
+Monuments. \n
+\n
+It was one of the many theatres of the Imperial troupe. Dramas, operas and ballets were on the
+stage. Only in 1880-ies, the theatre has become dramatic and tragedy filled. \n
+\n
+The premières of numerous Russian plays have been performed at the stage of the
+Alexandrinsky, including plays by Alexandr Griboyedov, Alexander Ostrovsky, and Anton
+Chekhov. Famous directors who have staged work there include Vsevolod Meyerhold, Grigori
+Kozintsev, Georgy Tovstonogov, and Nikolay Akimov. \n
+\n
+On 30 August 2006 the theatre reopened after a reconstruction.</string>
+
+    <string name="theatre_hermitage">The Hermitage Theatre (Russian: Эрмитажный Театр, tr. Èrmitážnyj Teátr; IPA: [ɪrʲmʲɪ\ˈtaʐnɨj
+tʲɪ\ˈatər]) in Saint Petersburg, Russia is one of five Hermitage buildings lining the Palace
+Embankment of the Neva River. \n
+\n
+The Hermitage Theatre was the second theatre of the Winter Palace. It replaced the Russian
+Imperial Theater, which operated from 1764 until 1783. The Hermitage Theatre was built
+between 1783 and 1787 at the behest of Catherine the Great to a Palladian design by Giacomo
+Quarenghi. The crumbling Third Winter Palace of Peter the Great was demolished to make room
+for the new structure, although its old foundations are still visible in the ground floor. Quarenghi\'s
+designs for the theatre were engraved and published in 1787, earning him a European
+reputation. \n
+\n
+The semicircular auditorium is decorated with color marble and surrounded with ten niches for
+statues of Apollo and the muses. As the interior has never been overhauled, the original stage
+machinery remains in situ, but the elaborate sets, an acclaimed work of the Italian artist Pietro
+Gonzaga (1751-1831), were lost during the years of Soviet neglect. \n
+\n
+The ceremonial opening of the theatre took place on 22 November 1785. Though the auditorium
+could seat no more than 250 spectators, it was often overcrowded. Usually, the performance
+would be attended by several dozen aristocratic spectators, all invited by the monarch herself. As
+a sign of gratitude, a separate loge was reserved for the architect Quarenghi and his family. In
+the 19th century, selected members of the diplomatic corps were admitted to the theatre as well.
+\n
+\n
+Although the building was used to entertain the imperial family until the Russian Revolution, it
+came to be viewed as a rare monument to Catherine\'s personal tastes and affections. The
+empress brought out several comedies specifically to be staged in this theatre, which also saw
+the premieres of Domenico Cimarosa\'s operas composed to her own librettos. As for the
+costumes, they were chosen from a 15,000-dress personal wardrobe of the late Empress
+Elizabeth. \n
+\n
+Mathilde Kschessinska, Anna Pavlova, and Fyodor Chaliapin were among the great artists who
+performed at the Hermitage Theatre for the last Russian tsar. Among the ballets performed there
+was the premiere of Marius Petipa\'s Harlequinade, in 1900. The Bolsheviks closed the theatre
+and utilised the building for administrative purposes. It was not until 1991 that performances were
+resumed on this stage, with the likes of Svyatoslav Richter, Mstislav Rostropovich and Yelena
+Obraztsova appearing as guest stars.</string>
+
+    <string name="theatre_mariinsky">The Mariinsky Theatre (Russian: Мариинский театр, Mariinskiy Teatr, also
+spelled Maryinsky, Mariyinsky) is a historic theatre of opera and ballet in Saint
+Petersburg, Russia. Opened in 1860, it became the preeminent music theatre of late 19th
+century Russia, where many of the stage masterpieces of Tchaikovsky, Mussorgsky,
+and Rimsky-Korsakov received their premieres. Through most of the Soviet era, it was known as
+the Kirov Theatre. Today, the Mariinsky Theatre is home to the Mariinsky Ballet, Mariinsky Opera
+and Mariinsky Orchestra. Since Yuri Temirkanov\'s retirement in 1988, the conductor Valery
+Gergiev has served as the theatre\'s general director.
+The Imperial drama, opera and ballet troupe in Saint Petersburg was established in 1783, at the
+behest of Catherine the Great, although an Italian ballet troupe had performed at the Russian
+court since the early 18th century. Originally, the ballet and opera performances were given in
+the wooden Karl Knipper Theatre on Tsaritsa Meadow, near the present-day Tripartite
+Bridge (also known as the Little Theatre or the Maly Theatre). The Hermitage Theatre, next door
+to the Winter Palace, was used to host performances for an elite audience of aristocratic guests
+invited by the Empress. \n
+\n
+A permanent theatre building for the new company of opera and ballet artists was designed
+by Antonio Rinaldi and opened in 1783. Known as the Imperial Bolshoi Kamenny Theatre the
+structure was situated on Carousel Square, which was renamed Theatre Square in honour of the
+building. Both names - \"Kamenny\" (Russian word for \"stone\") and \"Bolshoi\" (Russian word
+for \"big\") - were coined to distinguish it from the wooden Little Theatre. In 1836, the Bolshoi
+Kamenny Theatre was renovated to a design by Albert Cavos (son of Catterino Cavos, an opera
+composer), and served as the principal theatre of the Imperial Ballet and opera. \n
+\n
+On 29 January 1849, the Equestrian circus (Конный цирк) opened on Theatre Square. This was
+also the work of the architect Cavos. The building was designed to double as a theatre. It was a
+wooden structure in the then-fashionable neo-Byzantine style. Ten years later, when this circus
+burnt down, Albert Cavos rebuilt it as an opera and ballet house with the largest stage in the
+world. With a seating capacity of 1,625 and a U-shaped Italian-style auditorium, the theatre
+opened on 2 October 1860 with a performance of A Life for the Tsar. The new theatre was
+named Mariinsky after its imperial patroness, Empress Maria Alexandrovna.</string>
+
+    <string name="theatre_mikhailovsky">The Mikhailovsky Theatre (Russian: Миха́йловский теа́тр) is one of Russia\'s
+oldest opera and ballet houses. It was founded in 1833 and is situated in a historical building on
+the Arts Square in St. Petersburg. It is named after Grand Duke Michael Pavlovich of Russia. \n
+\n
+The theatre was established in 1833 by decree of Tsar Nicholas I. \n
+\n
+Before the 1917 Revolution, the Mikhailovsky did not have its own resident company.
+Performances were given either by a French company, hired by the Russian Imperial Theatres or
+at the end of the century by the Mariinsky Theatre and Alexandrinsky Theatrecompanies. Most of
+the great French actors of the period performed at the theatre: Those appearing included Jeanne
+Sylvanie Arnould-Plessy, Rachel Félix, Lucien Guitry and Sarah Bernhardt, as well as singers
+such as Hortense Schneider. Both classical and contemporary authors and composers had their
+works produced to great acclaim in French. Plays by Molière, Victor Hugo, Victorien Sardou,
+and Alexandre Dumas, fils and operettas by Jacques Offenbach were praised by the
+intelligentsia and the Russian aristocracy, such as Tolstoy and Tchaikovsky. \n
+\n
+When the Bolsheviks took power, the French company was forced to leave Russia. In 1917 the
+Mikhailovsky Theatre was closed. On March 6, 1918 the theatre was reopened as an opera
+theatre. Shortly afterwards the Mikhailovsky started changing its names. In 1918-1920, it was
+called the Ex-Mikhailovsky Theatre. In 1920 it was renamed to the State Academic Comic Opera
+Theatre, in 1921 the theatre changed its name to the Maly Operny (Maly Opera Theatre). In
+1926 it got the name of the Leningrad State Academic Maly Opera Theatre, MALEGOT for short.
+New management and artists followed. In 1920-1930 the Maly Operny established itself as one
+of the leading experimental stages in Russian new musical theatre. Shostakovich made his debut
+at the Maly Operny: Samuil Samosud conducted world premiere performances of his The
+Nose and Lady Macbeth of the Mtsensk District, the famous Vsevolod Meyerhold production
+of The Queen of Spades was staged there, and the world premiere of Prokofiev\'s epic opera War
+and Peacetook place on the theatre\'s stage on June 12, 1946. In 1930s Russian
+choreographer Fyodor Lopukhov founded the ballet company of the theatre. The first ballet
+premiere, Harlequinade, choreographed by Lopukhov, took place on June 6, 1933. \n
+\n
+From 1989 to 2007 the theatre bore the name of Modest Mussorgsky, subsequently returning to
+its original name the Mikhailovsky Theatre.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
